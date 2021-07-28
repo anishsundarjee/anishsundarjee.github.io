@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e50f4510ea8d8a8c68cb31f7a12c22e1",
+    "revision": "01ac8c1cbcc5f825b4fc9eb487e1a137",
     "url": "/index.html"
   },
   {
-    "revision": "dfc45715929d46cf2bb2",
+    "revision": "b508b24fd1baeb2abcd6",
     "url": "/static/css/main.774f64e5.chunk.css"
   },
   {
-    "revision": "d79a73e367f042bcb3d5",
-    "url": "/static/js/2.68f222e9.chunk.js"
+    "revision": "f84c3654d176f0b18931",
+    "url": "/static/js/2.c7523db9.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/static/js/2.68f222e9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c7523db9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dfc45715929d46cf2bb2",
-    "url": "/static/js/main.6fcdf1a2.chunk.js"
+    "revision": "b508b24fd1baeb2abcd6",
+    "url": "/static/js/main.f08df8f4.chunk.js"
   },
   {
     "revision": "86270678e9ad3edc9349",
@@ -58,18 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "163c239e276c95b72a54b6e81b0a521b",
     "url": "/static/media/USP.163c239e.png"
-  },
-  {
-    "revision": "a1051a228140c97862ba9a7f321c92b6",
-    "url": "/static/media/buld.a1051a22.jpg"
-  },
-  {
-    "revision": "404ae7bc061a03e399daa61344c78566",
-    "url": "/static/media/cwoc.404ae7bc.png"
-  },
-  {
-    "revision": "82473004d117a65c8ed30396c6299763",
-    "url": "/static/media/efi.82473004.png"
   },
   {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
@@ -132,14 +120,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
-    "revision": "54f6721948491acb1997fd43496cd7df",
-    "url": "/static/media/flutter.54f67219.png"
-  },
-  {
-    "revision": "6364dbb3a5b59c28566eac7e6aaacd04",
-    "url": "/static/media/gdg.6364dbb3.png"
-  },
-  {
     "revision": "0ba2aa20e2c2ce80e9a2db5b07198464",
     "url": "/static/media/github.0ba2aa20.png"
   },
@@ -152,79 +132,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistant.0c8a4c11.jpg"
   },
   {
-    "revision": "3d9465c3483dffb591b31f101699d0dc",
-    "url": "/static/media/gtu.3d9465c3.png"
-  },
-  {
-    "revision": "7a2dbf7a2595600c00118eea8a7a52f8",
-    "url": "/static/media/hackathon1.7a2dbf7a.svg"
-  },
-  {
-    "revision": "823352fd86e6f76120c6713bccc61157",
-    "url": "/static/media/harikrushn.823352fd.jpg"
-  },
-  {
-    "revision": "36d7942a201d6e2b83b55876e8433ccf",
-    "url": "/static/media/iit.36d7942a.png"
-  },
-  {
-    "revision": "ccf886614a9c68f209d3e95c2626dd99",
-    "url": "/static/media/ino.ccf88661.png"
-  },
-  {
-    "revision": "847873a85df8045d1d51cc6cf9cc97d7",
-    "url": "/static/media/localguide.847873a8.gif"
-  },
-  {
-    "revision": "b7f903d747b0409347c9ee67745dbfa4",
-    "url": "/static/media/localguide.b7f903d7.png"
-  },
-  {
-    "revision": "bc5cfd3a887013976863247e66c389a2",
-    "url": "/static/media/mlh-logo.bc5cfd3a.svg"
-  },
-  {
-    "revision": "53dd27a8801e3a4216b9c9e217dfc7d0",
-    "url": "/static/media/mlh.53dd27a8.png"
-  },
-  {
-    "revision": "d324ee17433678f2c32e57198b98c6db",
-    "url": "/static/media/mongo.d324ee17.png"
-  },
-  {
-    "revision": "5dcd18d03068fbd9edeeb5003b21998a",
-    "url": "/static/media/nightowls.5dcd18d0.jpg"
-  },
-  {
-    "revision": "22f11067f2d745aaceb51e485720635d",
-    "url": "/static/media/postman.22f11067.jpg"
-  },
-  {
-    "revision": "c108f55777ceaa6690606a207b737d0a",
-    "url": "/static/media/postman.c108f557.png"
-  },
-  {
     "revision": "78432d8fcf43bd1ef38c830af5f2bfee",
     "url": "/static/media/sau.78432d8f.png"
   },
   {
-    "revision": "7b7a76ef55658f6999ce00c5d55f85a5",
-    "url": "/static/media/skillenza.7b7a76ef.png"
-  },
-  {
-    "revision": "894ef0fc8dfe1c0ab658636b806049db",
-    "url": "/static/media/ssgandhy.894ef0fc.png"
-  },
-  {
     "revision": "6f3c2aae9d80ef49b9f2f6851eed2e22",
     "url": "/static/media/tableau.6f3c2aae.png"
-  },
-  {
-    "revision": "246ad3ede6a55b0102afa9871cfcbf21",
-    "url": "/static/media/valora.246ad3ed.jpg"
-  },
-  {
-    "revision": "02fdae4350ca45cabdc9c40cc11efc2a",
-    "url": "/static/media/wrighter.02fdae43.jpg"
   }
 ]);
